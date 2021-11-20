@@ -13,3 +13,5 @@ https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.123rf.com%2Fphoto_72108567
 - [x] #739
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
+
+![LinkedIn]('https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALinkedIn_logo_initials.png&psig=AOvVaw0ADKll9e1KI3ufrdn8N0Xe&ust=1637518858217000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPi5gKLHp_QCFQAAAAAdAAAAABAD')
