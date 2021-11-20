@@ -1,5 +1,5 @@
 # readme_practice
-
+![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
 ![Banner]('Redtower.jpeg')
 ![test image size](/img/post-bg-2015.jpg?v=4&s=100)
 ![test image size](/img/post-bg-2015.jpg?v=1&s=5)
