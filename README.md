@@ -25,3 +25,5 @@ https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.123rf.com%2Fphoto_72108567
 <img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png"/>
 
 <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png"/>
+
+![https://www.linkedin.com/in/jared-vahle-data-science/]<img src="https://img.icons8.com/ios-glyphs/20/ffffff/github.png"/>Jared Vahle:
