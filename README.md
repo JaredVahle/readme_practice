@@ -11,3 +11,5 @@
 https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.123rf.com%2Fphoto_72108567_ancient-battle-tower-icon-outline-style.html&psig=AOvVaw0c07si7OQNdtcCe9AzI0WS&ust=1637517656615000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNiC5uXCp_QCFQAAAAAdAAAAABAD
 
 - [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
